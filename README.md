@@ -1,60 +1,60 @@
 # 🛠️ Shxdow Cleanup v3.1
-**Automated Windows Optimization & Deep Cleaning Engine**
+> **Advanced Windows Optimization Engine & System Hardening Tool**
 
-[Download Latest Release](#-installation) | [View Source Code](./Shxdow-Cleanup.ps1)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shxdow2/Shxdow-Cleanup?style=for-the-badge&color=5391FE)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shxdow2/Shxdow-Cleanup?style=for-the-badge&color=A2D2FF)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+## 🎯 Overview
+**Shxdow Cleanup** is not just a temp file deleter. It's a comprehensive optimization suite designed to reduce system latency, free up disk space, and improve gaming performance by targeting deep system caches that standard tools miss.
+
+### ✨ Key Advantages
+| Feature | Windows Disk Cleanup | Shxdow Cleanup |
+| :--- | :---: | :---: |
+| **Basic Temp Files** | ✅ | ✅ |
+| **DirectX Shader Cache** | ❌ | ✅ |
+| **Nvidia/AMD Cache** | ❌ | ✅ |
+| **Discord/Spotify Cache** | ❌ | ✅ |
+| **RAM Optimization** | ❌ | ✅ |
+| **One-Click Execution** | ❌ | ✅ |
 
 ---
 
 ## 📖 Table of Contents
-1. [Features at a Glance](#-features-at-a-glance)
-2. [System Requirements](#-system-requirements)
-3. [Installation & Execution](#-installation)
-4. [Modular Architecture](#-modular-architecture)
-5. [Security & Open Source](#-security--open-source)
+* [🚀 Getting Started](#-getting-started)
+* [🛠️ Core Modules](#️-core-modules)
+* [📋 System Requirements](#-system-requirements)
+* [🛡️ Security & Privacy](#-security--privacy)
+* [🤝 Contributing](#-contributing)
 
 ---
 
-## ✨ Features at a Glance
-* **Autonomous Optimization Engine:** A multi-stage pipeline that cleans, decides, and executes system tweaks.
-* **Deep Disk Cleaning:** Targets Windows, Prefetch, Crypto, and RSA system-level files.
-* **Gaming Performance:** Instant shader clearing for DirectX/Nvidia and store-specific optimizations (Steam/Epic).
-* **Software Discovery:** Automatically detects and cleans Discord, Spotify, and major web browsers.
-* **Core Tweaks:** DNS Flushing, RAM optimization, and Registry core performance tweaks.
+## 🚀 Getting Started
+To get the best performance, we recommend using the **Official Release**:
+
+1. **Download** the latest [Release ZIP](https://github.com/Shxdow2/Shxdow-Cleanup/releases/latest).
+2. **Extract** the folder to your Desktop.
+3. **Run** `Shxdow-Cleanup-Launcher.bat` as Administrator.
 
 ---
 
-## 💻 System Requirements
-* **OS:** Windows 10 or Windows 11 (22H2+ recommended).
-* **Architecture:** x64 / ARM64.
-* **Privileges:** Administrator rights required for kernel-level cleaning.
+## 🏗️ Core Modules
+The engine is divided into specialized modules for maximum efficiency:
+* **`System.DeepClean`**: Cleans Prefetch, Temp, Cryptography, and RSA logs.
+* **`Gaming.Optimize`**: Flushes GPU shader caches and optimizes game store data.
+* **`App.Sanitize`**: Targets bloated cache from Electron apps (Discord, Spotify).
+* **`Net.Maintenance`**: Flushes DNS and resets network stack for lower ping.
 
 ---
 
-## 🚀 Installation
-To ensure the script runs without being blocked by Windows security:
-
-1. **Download** the `Shxdow-Cleanup.ps1` file.
-2. **Unblock the file:** Right-click -> Properties -> Check **Unblock** -> OK.
-3. **Run as Admin:** Right-click the file and select **Run with PowerShell**.
-
-> **Note:** If the script doesn't start, run this command in an admin PowerShell terminal:
-> `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
+## 🛡️ Security & Privacy
+* **Zero Telemetry:** No data ever leaves your machine.
+* **Read-Only Logic:** The script never touches essential Windows Kernel files.
+* **Open Source:** Every line of code is auditable by the community.
 
 ---
 
-## 🏗️ Modular Architecture
-The script is built as a modular system engine rather than a simple batch file:
-* **Dashboard:** Real-time CUI (Console User Interface) feedback.
-* **Cleaning Module:** Handles file I/O and recursive deletion.
-* **Optimizer Module:** Targets DNS, RAM, and Registry keys.
-* **Hardware Module:** Surface Pro & Intel specific optimizations.
-
----
-
-## 🛡️ Security & Open Source
-* **Transparency:** 100% Open Source. No hidden telemetry.
-* **Safety Net:** Append-only logic—never deletes essential OS files.
-* **License:** This project is licensed under the **MIT License**.
-
----
-**Developed by Shxdow**
+## 🔗 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-Shxdow2-181717?style=flat-square&logo=github)](https://github.com/Shxdow2)
