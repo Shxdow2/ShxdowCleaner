@@ -1,0 +1,10 @@
+# Logs
+*.log
+ShxdowCleaner.log
+
+# Backups Registre (Sécurité)
+C:/RegistryBackups/
+*.reg
+
+# Config locale
+config.json
