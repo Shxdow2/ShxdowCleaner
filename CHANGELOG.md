@@ -46,7 +46,3 @@ Author: Shxdow
   devices (Ghost Devices) to declutter the system.
 - Logging: Real-time action tracking in a dedicated 
   .log file for transparency.
-
-============================================================
-          BUILD READY FOR PRODUCTION - 2026 🚀
-============================================================
