@@ -1,6 +1,6 @@
 #Requires -RunAsAdministrator
 <#
-  SHXDOW CLEANUP v3.3 - MULTI-LANG EDITION
+  SHXDOW CLEANUP v3.3.1
   Build: 2026-04-03
   Author: Shxdow
 #>
