@@ -2,9 +2,7 @@
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%20%7C%207+-blue.svg?style=flat&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6.svg?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![.NET](https://img.shields.io/badge/.NET-10.0-512BD4.svg?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download)
-
-**Shxdow Cleanup** est un outil de maintenance avancé conçu pour optimiser les performances, libérer de l'espace disque et booster le gaming.
+[![.NET](https://img.shields.io/badge/.NET-11.0-512BD4.svg?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download)
 
 ---
 
