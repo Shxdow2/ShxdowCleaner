@@ -11,8 +11,6 @@
 ![Optimization](https://img.shields.io/badge/Performance-Kernel%20Flush-FFB900?style=for-the-badge&logo=speedtest)
 ![Status](https://img.shields.io/badge/Update-April%202026-brightgreen?style=for-the-badge)
 
-**A powerful, modular Windows cleanup & optimization tool built in PowerShell.**  
-*Deep clean. Real gains. Zero bloat.*
 
 </div>
 
