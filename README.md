@@ -37,7 +37,7 @@ Full **French** and **English** support. Language is selected on first launch an
 | # | Module | What it cleans |
 |---|--------|----------------|
 | 1 | **Temp** | User/System Temp, Prefetch, Thumbnails, Recent Items, Telemetry Logs |
-| 2 | **Web** | Chrome, Edge, Brave, Opera GX, Discord, Spotify, Teams, Office |
+| 2 | **Web** | Chrome, Edge, Brave,FireFox, Opera GX, Discord, Spotify, Teams, Office |
 | 3 | **Gaming** | Steam, Riot Client, Valorant, Fortnite, Epic Games, EAC |
 | 4 | **System** | Windows Update cache, Event Logs, CBS Logs, WER Reports, Recycle Bin |
 | 5 | **Optimisation** | RAM, DNS, ARP, VBS, Telemetry
