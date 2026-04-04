@@ -1,7 +1,7 @@
 ------------------------------------------------------------
 **⚡  Shxdow Clean TOOL  ⚡**   
 ------------------------------------------------------------
-Build: 2026-04-05  |  Status: GOLD  |  Author: Shxdow
+Build: 2026-04-05  |  Status: Stable  |  Author: Shxdow
 Project: System Optimization & Gaming Performance
 ============================================================
 
