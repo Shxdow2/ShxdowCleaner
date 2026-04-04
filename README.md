@@ -114,6 +114,19 @@ Set `"language"` to `"EN"` for English. Set any module to `false` to skip it ent
 
 ## 📊 Changelog
 
+### [v3.4] — 2026-04-05 — (The Final Evolution)
+- 🚀 Native Binary: Migrated from script to Standalone Executable (.exe).
+
+- 🎨 UI Overhaul: New High-Definition 256x256 icon and branding.
+
+- 🥷 Stealth Mode: Console window is now completely hidden.
+
+- ✅ Full FR/EN i18n: Multi-language engine with dynamic config saving.
+
+- ✅ Hardware Module: Added Intel/Surface logs and Ghost PnP removal.
+
+- ✅ Opti+: Integrated VBS/HVCI deep disable for gaming performance.
+
 ### [v3.3.1] — 2026-04-03
 - ✅ Full **FR/EN internationalization** — language selected at first launch, persisted in config
 - ✅ Translation dictionary `$Msgs` with dynamic `$M` loader
