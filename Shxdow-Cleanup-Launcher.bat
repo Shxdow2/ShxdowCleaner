@@ -1,3 +1,5 @@
+### [MOST USED]
+
 @echo off
 title Shxdow Cleanup v3.1 Launcher
 :: Force le script a regarder dans son propre dossier, meme avec des espaces
