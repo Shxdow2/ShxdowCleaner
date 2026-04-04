@@ -2,11 +2,12 @@
 
 <div align="center">
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%20%7C%207+-blue.svg?style=flat&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6.svg?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![.NET](https://img.shields.io/badge/.NET-Required-512BD4.svg?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download)
-[![Admin](https://img.shields.io/badge/Run%20As-Administrator-red.svg?style=flat&logo=shield&logoColor=white)]()
-[![Lang](https://img.shields.io/badge/Language-FR%20%7C%20EN-brightgreen.svg?style=flat)]()
+![Version](https://img.shields.io/badge/Version-3.3.2%20Ultimate-cyan?style=for-the-badge&logo=github)
+![Engine](https://img.shields.io/badge/Engine-Multi--Drive%20Ready-success?style=for-the-badge&logo=powershell)
+![Performance](https://img.shields.io/badge/Speed-Insta--Flush-orange?style=for-the-badge&logo=lightning)
+![Security](https://img.shields.io/badge/Safety-Reg--Backup%20Enabled-blueviolet?style=for-the-badge&logo=shield)
+![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011%20Supported-0078D4?style=for-the-badge&logo=windows)
+![Status](https://img.shields.io/badge/Build-Stable-green?style=for-the-badge)
 
 **A powerful, modular Windows cleanup & optimization tool built in PowerShell.**  
 *Deep clean. Real gains. Zero bloat.*
