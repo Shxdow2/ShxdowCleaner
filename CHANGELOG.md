@@ -3,8 +3,9 @@
 ------------------------------------------------------------
 Build: 2026-04-05  |  Status: Stable  |  Author: Shxdow
 Project: System Optimization & Gaming Performance
-Rename: Switched official title to Shxdow Cleaner.
 ============================================================
+
+Rename: Switched official title to Shxdow Cleaner.
 
 [🚀] THE "PRO" TRANSFORMATION ( v3.4 )
 ------------------------------------------------------------
