@@ -65,8 +65,8 @@ Full **French** and **English** support. Language is selected on first launch an
 ## 📥 Installation
 
 1. Go to the [**Releases**](https://github.com/Shxdow2/Shxdow-Cleanup/releases) page.
-2. Download **`Shxdow-Cleanup.exe`**.
-3. Right-click **`Shxdow-Cleanup.exe`** → **Run as Administrator**.
+2. Download **`ShxdowCleaner.exe`**.
+3. Right-click **`ShxdowCleaner.exe`** → **Run as Administrator**.
 
 > [!IMPORTANT]
 > Administrator privileges are mandatory. System-level optimizations, registry modifications, and hardware cleaning will be skipped if the tool is not elevated.
