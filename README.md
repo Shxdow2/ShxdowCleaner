@@ -1,4 +1,4 @@
-# ⚡ ShxdowCleaner — v3.4
+# ⚡ ShxdowCleaner - v3.4
 
 <div align="center">
 
