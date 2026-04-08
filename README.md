@@ -64,7 +64,7 @@ Full **French** and **English** support. Language is selected on first launch an
 
 ## 📥 Installation
 
-1. Go to the [**Releases**](https://github.com/Shxdow2/Shxdow-Cleanup/releases) page.
+1. Go to the [**Releases**](https://github.com/Shxdow2/ShxdowCleaner/releases) page.
 2. Download **`ShxdowCleaner.exe`**.
 3. Right-click **`ShxdowCleaner.exe`** → **Run as Administrator**.
 
@@ -76,8 +76,8 @@ Full **French** and **English** support. Language is selected on first launch an
 ## 📁 File Structure
 
 ```
-Shxdow-Cleanup/
-├── Shxdow-Cleanup.exe     ← Standalone App (Run as Admin)
+ShxdowCleaner/
+├── ShxdowCleaner.exe     ← Standalone App (Run as Admin)
 ├── config.json            ← Auto-generated preferences
 └── CHANGELOG.md           ← History of evolutions
 ```
@@ -149,6 +149,6 @@ A registry backup is automatically exported to `C:\RegistryBackups\` before any 
 
 *Crafted by **Shxdow** · 2026 · Built for performance, designed for control*
 
-**#ShxdowCleanup · #PowerShell · #Windows10 · #Windows11 · #Gaming · #Optimization**
+**#ShxdowCleaner · #PowerShell · #Windows10 · #Windows11 · #Gaming · #Optimization**
 
 </div>
