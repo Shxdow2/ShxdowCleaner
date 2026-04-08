@@ -1,5 +1,5 @@
 ------------------------------------------------------------
-**⚡  Shxdow Cleaner TOOL  ⚡**   
+**⚡  ShxdowCleaner TOOL  ⚡**   
 ------------------------------------------------------------
 Build: 2026-04-05  |  Status: Stable  |  Author: Shxdow
 Project: System Optimization & Gaming Performance
