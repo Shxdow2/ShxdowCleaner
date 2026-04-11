@@ -148,6 +148,6 @@ A registry backup is automatically exported to `C:\RegistryBackups\` before any 
 
 ***Crafted by Shxdow*** · 2026 · 
 
-**#ShxdowCleaner · #PowerShell · #Windows11 · #Gaming · #Optimization**
+**#ShxdowCleaner · #Windows11 · #Optimization**
 
 </div>
