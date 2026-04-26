@@ -107,7 +107,7 @@ Set `"language"` to `"EN"` for English. Set any module to `false` to skip it ent
 
 ## 📊 Changelog
 
-### [v3.4] — 2026-04-05 — (The Final Evolution)
+### [v3.4] — 2026-04-05 — (The last version)
 - 🚀 Native Binary: Migrated from script to Standalone Executable (.exe).
 
 - 🎨 UI Overhaul: New High-Definition 256x256 icon and branding.
