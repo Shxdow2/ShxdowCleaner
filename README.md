@@ -49,7 +49,6 @@ Full **French** and **English** support. Language is selected on first launch an
 - **Background apps disabled** globally
 - **Telemetry services stopped** (`DiagTrack`, `dmwappushservice`) and set to disabled
 - **DNS & ARP cache** flushed (`ipconfig /flushdns`, `netsh`)
-- **SSD ReTrim** via `Optimize-Volume -ReTrim`
 - **Registry backup** exported to `C:\RegistryBackups\` before any change
 
 ### 🛡️ Safety & Reliability
