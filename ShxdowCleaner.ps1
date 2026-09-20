@@ -352,16 +352,24 @@ function Invoke-HardwareModule {
     Write-Log "INFO" "=== MODULE 6 : HARDWARE ==="
     $t = 0
 
+    # 1. Intel (Logs uniquement)
     $t += Clean-Target "C:\Intel\Logs" "Intel Driver Logs"
-    $t += Clean-Target "$env:LOCALAPPDATA\Intel\ShaderCache" "Intel GPU Cache"
-    $t += Clean-Target "$env:LOCALAPPDATA\D3DSCache" "DirectX Shaders"
+
+    # 2. NVIDIA - Téléchargements & Installeurs temporaires
+    $t += Clean-Target "C:\NVIDIA\DisplayDriver" "NVIDIA Extracted Drivers"
+    $t += Clean-Target "C:\ProgramData\NVIDIA Corporation\NetService" "NVIDIA Driver Install Cache"
+    $t += Clean-Target "$env:LOCALAPPDATA\NVIDIA Corporation\GeForce Experience\Console" "NVIDIA GFE Logs"
+
+    # 3. Diagnostic & Surface
     $t += Clean-Target "$env:ProgramData\Microsoft\Surface" "Surface Diagnostic"
 
+    # 4. Purge officielle Microsoft des anciens pilotes inutilisés (Sécurisé)
     Write-Host "  $W>$($M.Analyse)$C DriverStore Cleanup$RE" -NoNewline
     pnputil /cleanup-drivers | Out-Null
     Write-Host " $G[OK]$RE"
     Write-Log "CLEAN" "DriverStore cleanup exécuté"
 
+    # 5. Nettoyage des périphériques fantômes déconnectés
     $dcPath = "$env:TEMP\DeviceCleanupCmd.exe"
     if (-not (Test-Path $dcPath)) {
         try {
