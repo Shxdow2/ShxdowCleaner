@@ -355,10 +355,14 @@ function Invoke-HardwareModule {
     # 1. Intel (Logs uniquement)
     $t += Clean-Target "C:\Intel\Logs" "Intel Driver Logs"
 
-    # 2. NVIDIA - Téléchargements & Installeurs temporaires
+    # 2. NVIDIA - Téléchargements, Installeurs & Caches
     $t += Clean-Target "C:\NVIDIA\DisplayDriver" "NVIDIA Extracted Drivers"
     $t += Clean-Target "C:\ProgramData\NVIDIA Corporation\NetService" "NVIDIA Driver Install Cache"
     $t += Clean-Target "$env:LOCALAPPDATA\NVIDIA Corporation\GeForce Experience\Console" "NVIDIA GFE Logs"
+    $t += Clean-Target "$env:LOCALAPPDATA\NVIDIA\GLCache" "NVIDIA GLCache"
+    $t += Clean-Target "$env:LOCALAPPData\NVIDIA\DXCache" "NVIDIA DXCache"
+    $t += Clean-Target "$env:LOCALAPPData\D3DSCache" "DirectX Shader Cache"
+
 
     # 3. Diagnostic & Surface
     $t += Clean-Target "$env:ProgramData\Microsoft\Surface" "Surface Diagnostic"
