@@ -360,8 +360,8 @@ function Invoke-HardwareModule {
     $t += Clean-Target "C:\ProgramData\NVIDIA Corporation\NetService" "NVIDIA Driver Install Cache"
     $t += Clean-Target "$env:LOCALAPPDATA\NVIDIA Corporation\GeForce Experience\Console" "NVIDIA GFE Logs"
     $t += Clean-Target "$env:LOCALAPPDATA\NVIDIA\GLCache" "NVIDIA GLCache"
-    $t += Clean-Target "$env:LOCALAPPData\NVIDIA\DXCache" "NVIDIA DXCache"
-    $t += Clean-Target "$env:LOCALAPPData\D3DSCache" "DirectX Shader Cache"
+    $t += Clean-Target "$env:LOCALAPPDATA\NVIDIA\DXCache" "NVIDIA DXCache"
+    $t += Clean-Target "$env:LOCALAPPDATA\D3DSCache" "DirectX Shader Cache"
 
 
     # 3. Diagnostic & Surface
