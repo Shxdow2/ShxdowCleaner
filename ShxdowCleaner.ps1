@@ -1,4 +1,4 @@
-#Requires -RunAsAdministrato
+#Requires -RunAsAdministrator
 
 # --- FIX ---
 $appId = "Shxdow.Cleaner.V4"
